@@ -1,3 +1,14 @@
 body{
     font-family: 'Courier New', Courier, monospace;
+    background-color: greenyellow;
+}
+.navbar{
+    background-color: grey;
+    display: flex;
+}
+.nsection li a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-weight: bold;
 }
